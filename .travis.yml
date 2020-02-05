@@ -3,6 +3,7 @@ language: scala
 scala:
  - 0.21.0-RC1
  - 0.20.0-RC1
+ - 2.13.1
 
 jdk:
   - openjdk8
